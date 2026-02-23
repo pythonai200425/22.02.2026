@@ -17,7 +17,7 @@ The level of this exercise should match the WeatherReport example you saw — in
 
 Create the class `SpaceShip` with the following:
 
-### Class Members (class variables)
+### Class Members (class variables) [static]
 
 * `MAX_FUEL = 1000`
 * `MIN_FUEL = 0`
