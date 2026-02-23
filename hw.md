@@ -1,5 +1,7 @@
 # Python OOP Exercise – Space Mission Control 🚀
 
+<img src="space.png" />
+
 Create a class called `SpaceShip`.
 
 The level of this exercise should match the WeatherReport example you saw — including:
